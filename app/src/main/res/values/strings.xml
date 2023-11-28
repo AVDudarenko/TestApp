@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="foreground_service">foreground service</string>
+    <string name="work_manager">work manager</string>
+</resources>
